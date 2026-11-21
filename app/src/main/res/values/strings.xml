@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">Konsepkt6</string>
-    <string name="time_zones">Strefy czasowe</string>
-    <string name="zone_choice">wybór stref do pokazania</string>
-    <string name="show_clocks">Pokaż czas</string>
-    <string name="no_zones_selected">Brak wybranych stref</string>
-    <string name="local_time">czas lokalny</string>
-    <string name="same_time">ten sam czas</string>
-    <string name="refreshed_every_second">odświeżane co sekundę</string>
+    <string name="time_zones">Time zones</string>
+    <string name="zone_choice">select zones to display</string>
+    <string name="show_clocks">Show time</string>
+    <string name="no_zones_selected">No zones selected</string>
+    <string name="local_time">local time</string>
+    <string name="same_time">same time</string>
+    <string name="refreshed_every_second">refreshed every second</string>
 </resources>
